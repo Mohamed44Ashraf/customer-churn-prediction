@@ -1,0 +1,15 @@
+Python 3.8+
+
+pandas
+
+numpy
+
+scikit-learn
+
+joblib
+
+streamlit
+
+plotly
+
+matplotlib
